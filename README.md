@@ -1,7 +1,7 @@
-# web_applications
-Applications runing direct of web browser
+# Web Application
+## Applications runing direct of web browser
 <br>
-Application: Text to voice
+Application: <b>Text to voice</b>
 <br>
 Description: Application that allows you to type in a text box and have the synth audible 
 <br>
