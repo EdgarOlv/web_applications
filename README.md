@@ -12,6 +12,7 @@ For use : [**Click Here**](https://EdgarOlv.github.io/Texto-Voz)
 
 Application: <b>Chat Socket Lan</b>
 <br>
+Description: Application that allows a chat between people on the local network 
 
 <br>
 <br>
