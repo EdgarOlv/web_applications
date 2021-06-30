@@ -14,7 +14,7 @@ Application: <b>Chat Socket Lan</b>
 <br>
 Description: Application that allows a chat between people on the local network 
 
-For use : [**Click Here**]()
+For use : [**Click Here**](https://EdgarOlv.github.io/Chat-Socket-Lan/client/)
 
 <br>
 <br>
